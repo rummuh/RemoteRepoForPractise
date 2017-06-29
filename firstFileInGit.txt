@@ -9,3 +9,4 @@ Debug statments
 Stash changes
 Cherry pick commit
 merge with no fast forward
+merge with ff
